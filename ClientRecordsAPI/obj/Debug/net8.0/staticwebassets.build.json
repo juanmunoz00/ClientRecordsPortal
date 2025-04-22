@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Un2zOKx5p5sA6hmDeAaVYmlALFKQPRJUGfiuNP4mCmc=",
+  "Source": "ClientRecordsAPI",
+  "BasePath": "_content/ClientRecordsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
