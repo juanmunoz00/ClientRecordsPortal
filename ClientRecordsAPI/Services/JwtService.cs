@@ -15,7 +15,7 @@ namespace ClientRecordsAPI.Services
             _config = config;
         }
 
-        public string GenerateToken(string userId, string role)
+        public virtual string GenerateToken(string userId, string role)
         {
             var jwtSettings = _config.GetSection("JwtSettings");
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtSettings["Key"]!));

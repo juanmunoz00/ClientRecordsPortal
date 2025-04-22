@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using ClientRecordsAPI.Services;
+using ClientRecordsAPI.DTOs;
 
 namespace ClientRecordsAPI.Controllers
 {
@@ -15,21 +16,18 @@ namespace ClientRecordsAPI.Controllers
         }
 
         [HttpPost("login")]
-        public IActionResult Login([FromBody] LoginRequest request)
+        public IActionResult Login([FromBody] LoginRequestDto request)
         {
             if (request.Username == "admin" && request.Password == "password")
             {
                 var token = _jwtService.GenerateToken("1", "Admin");
-                return Ok(new { token });
+                return Ok(new LoginResponseDto { Token = token });
+
             }
 
             return Unauthorized("Invalid credentials");
         }
     }
 
-    public class LoginRequest
-    {
-        public string Username { get; set; } = "";
-        public string Password { get; set; } = "";
-    }
+
 }
