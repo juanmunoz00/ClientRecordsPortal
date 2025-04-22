@@ -10,7 +10,7 @@ namespace ClientRecordsAPI.Tests
         public void GenerateToken_ShouldReturnValidToken()
         {
             // Arrange
-            var inMemorySettings = new Dictionary<string, string> {
+            var inMemorySettings = new Dictionary<string, string?> {
                 {"JwtSettings:Key", "supersecurekeywith32chars!!ABC123"},
                 {"JwtSettings:Issuer", "ClientRecordsAPI"},
                 {"JwtSettings:Audience", "ClientRecordsAPIUsers"},

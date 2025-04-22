@@ -10,6 +10,7 @@ C:\dev1\dotnet\ClientRecordsPortal\ClientRecordsAPI\bin\Debug\net8.0\AutoMapper.
 C:\dev1\dotnet\ClientRecordsPortal\ClientRecordsAPI\bin\Debug\net8.0\Azure.Core.dll
 C:\dev1\dotnet\ClientRecordsPortal\ClientRecordsAPI\bin\Debug\net8.0\Azure.Identity.dll
 C:\dev1\dotnet\ClientRecordsPortal\ClientRecordsAPI\bin\Debug\net8.0\Humanizer.dll
+C:\dev1\dotnet\ClientRecordsPortal\ClientRecordsAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\dev1\dotnet\ClientRecordsPortal\ClientRecordsAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 C:\dev1\dotnet\ClientRecordsPortal\ClientRecordsAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\dev1\dotnet\ClientRecordsPortal\ClientRecordsAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
@@ -148,6 +149,7 @@ C:\dev1\dotnet\ClientRecordsPortal\ClientRecordsAPI\obj\Debug\net8.0\ClientRecor
 C:\dev1\dotnet\ClientRecordsPortal\ClientRecordsAPI\obj\Debug\net8.0\ClientRecordsAPI.csproj.CoreCompileInputs.cache
 C:\dev1\dotnet\ClientRecordsPortal\ClientRecordsAPI\obj\Debug\net8.0\ClientRecordsAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\dev1\dotnet\ClientRecordsPortal\ClientRecordsAPI\obj\Debug\net8.0\ClientRecordsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\dev1\dotnet\ClientRecordsPortal\ClientRecordsAPI\obj\Debug\net8.0\ClientRecordsAPI.sourcelink.json
 C:\dev1\dotnet\ClientRecordsPortal\ClientRecordsAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\dev1\dotnet\ClientRecordsPortal\ClientRecordsAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\dev1\dotnet\ClientRecordsPortal\ClientRecordsAPI\obj\Debug\net8.0\staticwebassets\msbuild.ClientRecordsAPI.Microsoft.AspNetCore.StaticWebAssets.props
@@ -162,5 +164,3 @@ C:\dev1\dotnet\ClientRecordsPortal\ClientRecordsAPI\obj\Debug\net8.0\refint\Clie
 C:\dev1\dotnet\ClientRecordsPortal\ClientRecordsAPI\obj\Debug\net8.0\ClientRecordsAPI.pdb
 C:\dev1\dotnet\ClientRecordsPortal\ClientRecordsAPI\obj\Debug\net8.0\ClientRecordsAPI.genruntimeconfig.cache
 C:\dev1\dotnet\ClientRecordsPortal\ClientRecordsAPI\obj\Debug\net8.0\ref\ClientRecordsAPI.dll
-C:\dev1\dotnet\ClientRecordsPortal\ClientRecordsAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\dev1\dotnet\ClientRecordsPortal\ClientRecordsAPI\obj\Debug\net8.0\ClientRecordsAPI.sourcelink.json
